@@ -21,7 +21,7 @@
     </a>
 </p>
 
-## Starter kit with Laravel Shopper v1.0.3 (latest: [![GitHub release](https://img.shields.io/github/release/shopperlabs/framework.svg)](https://github.com/shopperlabs/framework/releases/))
+## Starter kit with Laravel Shopper v1.0.5 (latest: [![GitHub release](https://img.shields.io/github/release/shopperlabs/framework.svg)](https://github.com/shopperlabs/framework/releases/))
 
 [Laravel Shopper official repository](https://github.com/shopperlabs/framework)
 
